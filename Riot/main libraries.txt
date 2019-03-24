@@ -1,0 +1,5 @@
+Pandas
+Numpy
+Matplotlib
+Requests (to make the html requests from the riot api)
+openpyxl (to write excel files)
